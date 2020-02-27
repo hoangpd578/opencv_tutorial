@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46cf9bd4-df93-4fa1-b6bb-4e00d37c4992" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="a8b3885c-af83-47f6-9f09-0e21c61d32bf" />
+  <component name="ProjectId" id="1YEeJtRR6fHzObBhVxmCqM1LknB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunManager" selected="Python.other">
+    <configuration name="detect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="detect_center_contour" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="other" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="detect_center_contour" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.other" />
+        <item itemvalue="Python.detect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46cf9bd4-df93-4fa1-b6bb-4e00d37c4992" name="Default Changelist" comment="" />
+      <created>1582512111787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582512111787</updated>
+      <workItem from="1582512113321" duration="3047000" />
+      <workItem from="1582515507234" duration="790000" />
+      <workItem from="1582561697389" duration="2933000" />
+      <workItem from="1582646845290" duration="7758000" />
+      <workItem from="1582678893920" duration="9000" />
+      <workItem from="1582685441503" duration="2818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="486" y="160" width="424" height="491" key="FileChooserDialogImpl" timestamp="1582688245622">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="486" y="160" width="424" height="491" key="FileChooserDialogImpl/50.27.1316.741@50.27.1316.741" timestamp="1582688245622" />
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom" timestamp="1582688261071">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="172" key="GridCell.Tab.0.bottom/50.27.1316.741@50.27.1316.741" timestamp="1582688261071" />
+    <state width="1270" height="172" key="GridCell.Tab.0.center" timestamp="1582688261068">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="172" key="GridCell.Tab.0.center/50.27.1316.741@50.27.1316.741" timestamp="1582688261068" />
+    <state width="1270" height="172" key="GridCell.Tab.0.left" timestamp="1582688261067">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="172" key="GridCell.Tab.0.left/50.27.1316.741@50.27.1316.741" timestamp="1582688261067" />
+    <state width="1270" height="172" key="GridCell.Tab.0.right" timestamp="1582688261069">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state width="1270" height="172" key="GridCell.Tab.0.right/50.27.1316.741@50.27.1316.741" timestamp="1582688261069" />
+    <state x="197" y="31" width="1022" height="737" key="SettingsEditor" timestamp="1582515643573">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="197" y="31" width="1022" height="737" key="SettingsEditor/50.27.1316.741@50.27.1316.741" timestamp="1582515643573" />
+    <state x="364" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1582685450436">
+      <screen x="50" y="27" width="1316" height="741" />
+    </state>
+    <state x="364" y="225" key="com.intellij.ide.util.TipDialog/50.27.1316.741@50.27.1316.741" timestamp="1582685450436" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/detect_center_contour$other.coverage" NAME="other Coverage Results" MODIFIED="1582686231982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/detect_center_contour$detect.coverage" NAME="detect Coverage Results" MODIFIED="1582564512900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
